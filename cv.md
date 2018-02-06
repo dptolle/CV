@@ -49,7 +49,7 @@ Mathematics
 
 
 ### Work Experience:
-__Aug ’11 – Present__ _IT-specialist at mgm Technology Partners, Berlin (Germany)_
+__Aug ’11 – Dec ’17__ _IT-specialist at mgm Technology Partners, Berlin (Germany)_
 * Key areas of the job included development of customer (E-commerce & Insurance industry)
 software projects (mainly Java, Javascript, CSS, HTML, SQL, numerous frontend & backend
 frameworks)
