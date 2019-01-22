@@ -11,7 +11,8 @@ __E-mail:__
 
 __Gender__: male
 
-__Social Networks:__ https://de.linkedin.com/in/dominic-tölle-795298b2
+__Social Networks:__  https://de.linkedin.com/in/dominic-tölle-795298b2
+                      https://about.me/dominic.tolle
 
 
 ### Education:
@@ -49,6 +50,10 @@ Mathematics
 
 
 ### Work Experience:
+__Feb ’18 – current__ _Scientist at Federal Institute of Risk Assessment, Berlin (Germany)_
+* Key areas of the job included development of software projects (mainly Javascript,
+  CSS, HTML, NoSQL, numerous frontend & backend frameworks)
+
 __Aug ’11 – Dec ’17__ _IT-specialist at mgm Technology Partners, Berlin (Germany)_
 * Key areas of the job included development of customer (E-commerce & Insurance industry)
 software projects (mainly Java, Javascript, CSS, HTML, SQL, numerous frontend & backend
@@ -108,6 +113,7 @@ United-Kingdom
 email: lenov@babraham.ac.uk
 
 __Arbeitszeugniss AG Dietrich__, BIMSB-MDC available on demand
+__Arbeitszeugniss mgm Technology Partners__ available on demand
 
 #### Publications:
 * Barrett AJ, __Tolle DP__, Rawlings ND; __Biological Chemistry__ _384(6):873-82 (2003)_
